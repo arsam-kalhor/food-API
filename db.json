@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Margherita Pizza",
+      "ingredients": [
+        "dough",
+        "tomato sauce",
+        "mozzarella",
+        "basil"
+      ],
+      "method": "Preheat oven to 475°F (245°C).\nStretch dough into a round base.\nSpread tomato sauce and top with mozzarella and basil.\nBake for 10-12 minutes until crust is golden and cheese is bubbly.",
+      "cooktime": "20 min"
+    },
+    {
+      "id": "2",
+      "title": "BLT Sandwich",
+      "ingredients": [
+        "bread",
+        "bacon",
+        "lettuce",
+        "tomato",
+        "mayonnaise"
+      ],
+      "method": "Cook bacon until crisp and drain on paper towels.\nToast the bread slices.\nSpread mayonnaise on toast, layer bacon, lettuce, and tomato.\nSlice and serve.",
+      "cooktime": "10 min"
+    },
+    {
+      "id": "3",
+      "title": "Sushi Roll",
+      "ingredients": [
+        "rice",
+        "nori",
+        "raw fish",
+        "avocado",
+        "cucumber"
+      ],
+      "method": "Cook and season sushi rice, then let it cool.\nPlace nori on a bamboo mat, spread rice evenly.\nAdd fillings (fish, avocado, cucumber) and roll tightly.\nSlice the roll into pieces and serve with soy sauce.",
+      "cooktime": "30 min"
+    },
+    {
+      "id": "4",
+      "title": "Caesar Salad",
+      "ingredients": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan",
+        "caesar dressing"
+      ],
+      "method": "Wash and chop romaine lettuce.\nToss lettuce with Caesar dressing until evenly coated.\nAdd croutons and grated parmesan.\nServe immediately.",
+      "cooktime": "10 min"
+    }
+  ]
+}
